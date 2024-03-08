@@ -8,6 +8,7 @@ To install the required packages, run the following command:
 
 ```bash
 conda env create -f environment.yml
+conda activate ghtpdf
 ```
 
 This will install the required packages, including `PyPDF2` and `pandas`.
